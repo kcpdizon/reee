@@ -1,5 +1,5 @@
 +++
-title = "zimzalabim"
+title = "my first post"
 date = "2026-07-08T17:22:37+08:00"
 author = "kathleen"
 authorTwitter = "" #do not include @
