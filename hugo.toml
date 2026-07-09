@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://kcpdizon.github.io/reee/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -101,7 +101,7 @@ pagination.pagerSize = 5
     [languages.en.params.logo]
 
       logoText = "gallereee"
-      logoHomeLink = "/"
+      logoHomeLink = ""https://kcpdizon.github.io/reee/""
 
 # trying out the submenu again
 
