@@ -165,3 +165,30 @@ figure:has(.post-cover) {
         object-position: center; 
     }
 }
+
+.post-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  margin: 10px 0;
+  width: 100%;
+  align-items: start; /* Prevents images from stretching vertically to match the tallest neighbor */
+
+  img {
+    width: 100%;
+    height: auto; 
+    display: block;
+    border: 3px solid var(--accent);
+    padding: 4px;
+    background: white;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.08);
+    }
+  }
+}
+
+figcaption{
+    text-align: center;
+}
