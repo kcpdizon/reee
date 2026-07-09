@@ -101,7 +101,7 @@ pagination.pagerSize = 5
     [languages.en.params.logo]
 
       logoText = "gallereee"
-      logoHomeLink = ""https://kcpdizon.github.io/reee/""
+      logoHomeLink = "https://kcpdizon.github.io/reee/"
 
 # trying out the submenu again
 
