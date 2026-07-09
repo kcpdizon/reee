@@ -14,7 +14,8 @@ pagination.pagerSize = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
+  # ay nako i just needed to read this
 
   # show selector to switch language
   showLanguageSelector = false
@@ -32,7 +33,7 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -68,8 +69,8 @@ pagination.pagerSize = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  # creator = ""
+  # site = ""
 
 [languages]
   [languages.en.params]
@@ -79,8 +80,8 @@ pagination.pagerSize = 5
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
+     menuMore = "Show more"
+     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
@@ -90,23 +91,38 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "reee"
       logoHomeLink = "/"
 
-    [languages.en.menu]
-      # Submenus is available since v2.1.0
-      # [[languages.en.menu.main]]
-      #   identifier = "submenuParent"
-      #   name = "Submenu"
-      # [[languages.en.menu.main]]
-      #   parent = "submenuParent"
-      #   identifier = "anItem"
-      #   name = "AnItem"
-      [[languages.en.menu.main]]
+# trying out the submenu again
+
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "submenu"
+      name = "Sub menus"
+      weight = 10
+
+    [[languages.en.menu.main]]
+      identifier = "sub-about"
+      name = "About"
+      url = "/about/"
+      parent = "submenu"
+      weight = 1
+
+    [[languages.en.menu.main]]
+      identifier = "sub-gallery"
+      name = "Gallery"
+      url = "/gallery"
+      parent = "submenu"
+      weight = 2
+
+     [[languages.en.menu.main]]
         identifier = "about"
-        name = "about"
+        name = "About"
         url = "/about/"
-      [[languages.en.menu.main]]
-        identifier = "gallery"
-        name = "gallery"
-        url = "/gallery/"
+
+     [[languages.en.menu.main]]
+       identifier = "gallery"
+       name = "Gallery"
+       url = "/gallery/"
+
