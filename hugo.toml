@@ -14,12 +14,10 @@ pagination.pagerSize = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-<<<<<<< HEAD
+
   showMenuItems = 3
   # ay nako i just needed to read this
-=======
-  showMenuItems = 2
->>>>>>> main
+
 
   # show selector to switch language
   showLanguageSelector = false
@@ -37,11 +35,9 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-<<<<<<< HEAD
+
   showLastUpdated = true
-=======
-  showLastUpdated = false
->>>>>>> main
+
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
