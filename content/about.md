@@ -3,8 +3,48 @@ date = '2026-07-08T18:02:08+08:00'
 draft = false
 title = 'About'
 +++
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo commodo, condimentum velit bibendum, lacinia neque. Maecenas non neque sed lorem tincidunt luctus vel id neque. Fusce erat massa, porta aliquet velit sed, tempus facilisis purus. Integer gravida, tortor in scelerisque bibendum, nisl diam condimentum nulla, sed sollicitudin ex urna vitae tortor. Suspendisse semper leo vel erat luctus, a gravida mi accumsan. Maecenas consequat efficitur enim non consectetur. Duis vel lacinia dolor, quis maximus arcu. Ut id mauris non nisl finibus condimentum accumsan sit amet massa. Curabitur sit amet metus fermentum ante placerat venenatis ut lacinia odio. Aenean commodo et justo scelerisque vehicula. Morbi efficitur lacus massa, et ullamcorper neque imperdiet nec. Phasellus massa augue, finibus et massa ut, malesuada mollis quam. Integer vitae lacus varius, consectetur lectus ac, tempus nibh. Etiam iaculis leo nec iaculis vehicula. Sed tristique velit ligula, nec rutrum tortor tincidunt sed. Nam ullamcorper nunc dui, ut tempus massa sodales cursus.
 
-Proin convallis eu felis at sollicitudin. Mauris quis turpis at est pharetra ornare. Vivamus vehicula nisi urna, sit amet ultricies ipsum rutrum non. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras non lacus non sapien pretium auctor. Sed id vehicula felis. Curabitur ut porttitor dui, vitae semper justo. In tincidunt leo augue, vitae rutrum tortor sagittis eget. Nam blandit ligula non ex finibus, ut convallis diam volutpat. Vestibulum lobortis lorem a enim blandit, eu cursus ante sagittis. Phasellus et imperdiet ipsum, nec rhoncus mi. In non semper lacus. Praesent ultrices pharetra risus, non semper felis ultrices ac. Vivamus a lobortis justo. Fusce pretium, enim non aliquet condimentum, ex elit sodales erat, in luctus velit mauris eget sapien. Sed vitae elit ac libero facilisis pellentesque.
+# Trying out Film Photography (2026)
+---
+##### Current Film Stock Ranking
+    1. Kodak Ultramax 400
+        - Shots: 36
+        - Color Profile: vibrant blues and greens, warm-leaning, moderate contrast
+        - Grain: fine to medium
+    2. Kodak Gold 200 
+        - Shots: 36
+        - Color Profile: high saturation, warm yellow-orange tones, moderate contrast
+        - Grain: fine to medium
+    3. Kodak Double-X/5222 (Cinema Film)
+        - Shots: 36
+        - Color Profile: black and white, high contrast (dark blacks, strong shadows)
+        - Grain: medium 
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam at orci nisi. Sed et urna odio. Proin sollicitudin eget massa nec sodales. Nunc fringilla enim ac justo aliquam, a rutrum erat efficitur. Morbi fringilla metus eu lorem lacinia, non varius lorem semper. Vestibulum sagittis aliquet purus sed dignissim. Nulla accumsan sagittis volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi laoreet dolor vitae dolor ultricies auctor. Phasellus ac est sed sem dignissim tempus. In hac habitasse platea dictumst. Ut odio leo, tempor sit amet egestas ut, sollicitudin sed quam. Mauris id enim vitae risus volutpat molestie sollicitudin eu quam. Nam sollicitudin ornare mi et mollis.
+<div style="max-width: 800px; margin: 0 auto; padding: 0 16px;">
+
+<div style="display: flex; gap: 24px; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1;">
+
+##### Current Set-up
+1. Nikon F2 + 50mm f/1.4 AI lens
+    - manual SLR Camera 
+        - technical specifications [(source)](https://www.analog.cafe/r/nikon-f2-film-camera-review-tnkh):
+            - shutter: 1s - 1/2000s
+            - battery: LR-44
+            - self-timer: 2-10s
+        - coupled with the DP-11 prism
+
+</div>
+
+<div style="flex: 0 0 40%; min-width: 250px;">
+  <figure style="margin: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Nikon_F2_20080316.jpg" alt="Nikon F2" style="width: 100%; height: auto">
+    <figcaption style="margin-top: 8px; font-size: 0.7em; margin-left: 0"> Mike, CC BY 2.0, via Wikimedia Commons</figcaption>
+  </figure>
+ </div>
+</div>
+ 
+
+
+        
+
