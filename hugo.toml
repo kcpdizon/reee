@@ -91,7 +91,7 @@ pagination.pagerSize = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "reee"
+      logoText = "gallereee"
       logoHomeLink = "/"
 
 # trying out the submenu again
@@ -125,4 +125,9 @@ pagination.pagerSize = 5
        identifier = "gallery"
        name = "Gallery"
        url = "/gallery/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
